@@ -1,0 +1,1 @@
+# wigki.js
